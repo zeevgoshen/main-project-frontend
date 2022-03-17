@@ -73,4 +73,8 @@
       background: #f8df00;
       color: #292929;
     }
+    
+    ul.nav-links{
+        margin-right: 70px;
+    }
   }
